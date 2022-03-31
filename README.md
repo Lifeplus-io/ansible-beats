@@ -1,3 +1,11 @@
+# IMPORTANT 
+
+This project is a fork of (https://github.com/elastic/ansible-beats) but the project is no longer maintained. 
+
+Some modifications have been made but not contributed upstream, use it at your own risk
+
+Below offical README content
+
 # ARCHIVED
 
 This project is no longer maintained. For alternative getting started
